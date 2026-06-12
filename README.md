@@ -1,4 +1,4 @@
-# Caliber | Context-Aware Gen AI Persona Matrix
+# Caliber AI| Context-Aware Gen AI Personal Matrix
 
 Caliber is an advanced, production-ready Generative AI interface designed to break the monotony of static chatbots. Built with an immersive, custom neon-glassmorphic frontend ecosystem and a robust backend architecture, Caliber intelligently spins up specialized system execution blueprints.
 
